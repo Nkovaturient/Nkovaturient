@@ -1,19 +1,30 @@
-- 👋 Hello there!☄️  You may know some folks(~15%) who come from a non-tech domain, but are  avid tech-enthusiast demonstrating  penchant for  ingenuity and trenchant wit 💡 ....well, surely, I am one of them!! 😄 ✨🔰
-- 💛 Introducing myself- **Neha_Kumari, currently a college student [Year- II] pursuing humanities.** ⚡ 💖
-  
-  + Nevertheless, my domain had never been an obstacle in my coding journey, instead it was a **"catalyst🔥"** and a **"promoter⭐"** that ignited my curiosity way too far, propelling me to seek out, explore and advance my knowledge, soft skills, and training beyond this offline world-- into a virtual realm.
-    
-- 🎗️ _A keen and disciplined Coder🦋_ || _Tech-Enthusiast🍁_ || _Explorer🍀_ || _Nerd🌙_ || _Problem-Solving Mind🧮_
--  **Currently engaged in my Coding Odyssey-Journey to master Full Stack Web Development :-**
--  ## MERN STACK
-    - **Frontend Technologies**
-        + **HTML[85%]**  + **CSS[75%]**     +  **JavaScript[45%]**      + Bootstrap [65%]
-          
-    - **Backend Technologies**
-      + **MongoDB**
-      + **Express.js**
-      + **React**
-      + **Node.js**
-      
-- stay-tuned 🎼 🎵...
+<h1 align="center">Neha Kumari</h1>
+<h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Explorer🍀 || Programmer || Nerd🌙 </h3>
+
+- 🌱 Currently engaged in **Coding Odyssey- Journey to master Full Stack Web Development - MERN STACK DEVELOPER**
+
+- 📫 Get in Touch **nk8981398@gmail.com**
+
+- ⚡ Fun fact **People term it- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ha73329109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ha73329109" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neha kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha kumari" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nk711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nk711" height="30" width="40" /></a>
+<a href="https://instagram.com/nehakumari2593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehakumari2593" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkovaturient&show_icons=true&locale=en&layout=compact" alt="nkovaturient" /></p> <br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkovaturient&show_icons=true&locale=en" alt="nkovaturient" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&" alt="nkovaturient" /></p>
+
+- stay tuned🎵... Happy Coding!💻
+
 
