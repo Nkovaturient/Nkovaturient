@@ -1,11 +1,14 @@
-<h1 align="center">Neha Kumari</h1>
-<h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Explorer🍀 || Programmer || Nerd🌙 </h3>
+<h1 align="center">Neha Kumari</h1> 
+![gitProfile](https://github.com/Nkovaturient/-Readme.md/assets/127786136/42d2e451-d49d-426a-a7f7-4718e911da04)
+
+<h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Explorer🍀 || Programmer 💻 || Nerd 👾 ☄️ </h3>
 
 - 🌱 Currently engaged in **Coding Odyssey- Journey to master Full Stack Web Development - MERN STACK DEVELOPER**
 
 - 📫 Get in Touch **nk8981398@gmail.com**
 
 - ⚡ Fun fact **People term it- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
+- Also, a Selenophile 🌙|| Ceruleaphile 💙|| Bookworm 📚 || MARVELlous[MCU] 👀 || 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
