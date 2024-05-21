@@ -7,7 +7,7 @@
 - 📫 Get in Touch **nk8981398@gmail.com**
 
 - ⚡ Fun fact **People term it- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
-- Also, a Selenophile 🌙|| Ceruleaphile 💙|| Bookworm 📚 || Astrophile || 
+- Also, a Selenophile 🌙|| Ceruleaphile 💙|| Bookworm 📚 || Astrophile 🌟 || 
 
 <h3 align="left">Connect with me: 🤝</h3>
 <p align="left" >
