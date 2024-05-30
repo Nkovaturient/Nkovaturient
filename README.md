@@ -7,7 +7,7 @@
 - 📫 Get in Touch **nk8981398@gmail.com**
 
 - ⚡ Fun fact **People term it- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
-- Also, a Selenophile 🌙|| Ceruleaphile 💙|| Bookworm 📚 || Astrophile 🌟 ||
+- Also, a Selenophile 🌙|| Ceruleaphile 💙|| Bookworm 📚 || Astrophile 🌟 || 
 
 <h3 align="left">Connect with me: 🤝</h3>
 <p align="left" >
@@ -17,7 +17,7 @@
 <a href="https://instagram.com/nehakumari2593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehakumari2593" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">My Technology Flair: 💻</h3>
+<h3 align="left">My Tech Flair: 💻</h3>
 <div class="badges">
 <img src="https://img.shields.io/badge/code_editor-visual_studio_code-blue" />
 <img src="https://img.shields.io/badge/javascript-8A2BE2"/>
