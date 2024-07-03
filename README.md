@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **People term it- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
 - Also, a Selenophile 🌙|| Ceruleaphile 💙|| Bookworm 📚 || Astrophile 🌟 || Fast-paced Learner 📨 || Self-Motivated 🤙
 
-<h3 align="left">Connect with me: 🤝</h3>
+<h3 align="left">Connect with me: 🤝🌏</h3>
 <p align="left" >
 <a href="https://twitter.com/ha73329109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ha73329109" height="40" width="40"  /></a> 
 <a href="https://linkedin.com/in/neha kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha kumari" height="40" width="40" /></a>  
