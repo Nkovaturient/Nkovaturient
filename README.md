@@ -44,7 +44,7 @@
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkovaturient&show_icons=true&locale=en" alt="nkovaturient" /></div> <br/>
 
 # <footer>
-  <b> stay tuned.. 🎵 Happy Coding!💻 </b>   <br/>
+  <b> stay tuned.. 🎵🎹 Happy Coding!💻 </b>   <br/>
     <img align="center" src="https://private-user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2OTQ1NjUsIm5iZiI6MTcxNTY5NDI2NSwicGF0aCI6Ii83NDAzODE5MC8yNDg4ODQwMDQtYWYyMTJkYTQtODU4OC00ZDdjLTg0MDAtMTZlNTZmMjc0NmEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE0VDEzNDQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhNDVkMzYwZTQzNDJhY2RlMDgxM2QzNzM0MTllNmExNjM1YmM2NTg1NDA1NWFlMGVmZDM4ZGU0NDk5ZDZhNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.twGx7RQ08klqhmPlxtBEpUUQb5K6FBbhCkvy31AXLRo" height="300" width="400" />
 </footer>
 
