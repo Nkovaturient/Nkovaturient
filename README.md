@@ -7,7 +7,7 @@
 - 🌱 Currently engaged in **Coding Odyssey- Journey to master Full Stack Web Development - MERN STACK DEVELOPER** (Grinding!) ☄️
 - 📫 Get in Touch: **nehakumarisde@gmail.com**
 
-- ⚡ Fun fact: **People term it- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
+- ⚡ Fun fact: **People term it as- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
 - Also, a Selenophile 🌙|| Ceruleaphile 💙|| Bookworm 📚 || Astrophile 🌟 || Fast-paced Learner 📨 || auto-didact 🤙
 
 <h3 align="left">Connect with me: 🤝🌏</h3>
