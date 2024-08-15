@@ -1,6 +1,6 @@
 <h1 align="center">Neha Kumari <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80" height="80" style="border-radius: 50" /></h1>
 <h2 align="center">MERN Stack Developer</h2>
-<h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Explorer🍀 || Programmer 💻 || Nerd  ☄️ </h3>
+<h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Explorer🍀 || Programmer 💻 || Nerd ☄️ </h3>
 
 <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2OTQ1NjUsIm5iZiI6MTcxNTY5NDI2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE0VDEzNDQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjBjOWYxNGFlZWFhYTEzZjdiMWRlOGEyZDhiMDBkYWE5ZjhlZTBlZmRhZDlmNTZiNDA0ZThiNTA0OWU2MTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.M2zpzeTE7x9t3huy4HH32ntVHj6Z-lqS6jpM25jyrjs" />
 
