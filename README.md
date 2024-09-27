@@ -4,7 +4,7 @@
 
 <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2OTQ1NjUsIm5iZiI6MTcxNTY5NDI2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE0VDEzNDQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjBjOWYxNGFlZWFhYTEzZjdiMWRlOGEyZDhiMDBkYWE5ZjhlZTBlZmRhZDlmNTZiNDA0ZThiNTA0OWU2MTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.M2zpzeTE7x9t3huy4HH32ntVHj6Z-lqS6jpM25jyrjs" />
 
-- 🌱 Currently engaged in **Coding Odyssey- Journey to master Full Stack Web Development - MERN STACK DEVELOPER** (Grinding!!) ☄️
+- 🌱 Currently engaged in **Coding Odyssey- Journey to master Full Stack Web Development - MERN STACK DEVELOPER** (Grinding!) ☄️
 - 📫 Get in Touch: **nehakumarisde@gmail.com**
 
 - ⚡ Fun fact: **People term it as- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
