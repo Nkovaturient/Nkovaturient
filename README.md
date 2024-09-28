@@ -3,9 +3,9 @@
 <h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Explorer🍀 || Programmer 💻 || Nerd ☄️ </h3>
 
 - 🌱 Currently engaged in **Coding Odyssey- Journey to master Full Stack Web Development - MERN STACK DEVELOPER** (Grinding!!) ☄️
-- Revving up my engine for GSOC-Extd 2024
-  
-  ![Neha_Kumari_Badge_Contributor_GSSoC2024-Extd](https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388)
+- Revving up my engine for **GSOC-Extd 2024** 🚀✨
+ <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='240'  /> <br/>
+
   
 - 📫 Get in Touch: **nehakumarisde@gmail.com**
 - ⚡ Fun fact: **People term it as- the 'poetry' of programming, its still an avid 'puzzle' for me :))**
