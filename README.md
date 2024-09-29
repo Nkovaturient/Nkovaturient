@@ -2,7 +2,7 @@
 <h2 align="center">MERN Stack Developer</h2>
 <h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Explorer🍀 || Programmer 💻 || Nerd ☄️ </h3>
 
-- 🌱 Currently engaged in **Coding Odyssey- Journey to master Full Stack Web Development - MERN STACK DEVELOPER** (Grinding!!) ☄️
+- 🌱 Currently engaged in **Coding Odyssey- Journey to master Full Stack Web Development - MERN STACK DEVELOPER** (Grinding!) ☄️
 - Revving up my engine for **GSOC-Extd 2024** 🚀✨
  <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260'  /> <br/>
 
