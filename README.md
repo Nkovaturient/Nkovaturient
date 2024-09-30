@@ -1,8 +1,7 @@
 <h1 align="center">Neha Kumari <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80" height="80" style="border-radius: 50" /></h1>
 
 <h2 align="center">MERN Stack Developer </h2>
-<h3 align="center">🧠 Geek by Nature || 💻 Programmer at Heart || 🚀 Aspiring Innovator || 🌌 Tech Explorer</h3>
-<h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Nerd ☄️ </h3>
+<h3 align="center">🧠 Geek by Nature || 🎗️Coder🦋 || Tech-Savvy🍁 || Explorer🍀 || Programmer 💻 || Nerd ☄️ </h3>
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/nkovaturient?label=Followers&style=social" alt="GitHub Followers" />
