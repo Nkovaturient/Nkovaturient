@@ -1,6 +1,6 @@
 <h1 align="center">Neha Kumari <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80" height="80" style="border-radius: 50" /></h1>
 
-<h2 align="center">MERN Stack Developer 🚀</h2>
+<h2 align="center">MERN Stack Developer </h2>
 <h3 align="center">🧠 Geek by Nature || 💻 Programmer at Heart || 🚀 Aspiring Innovator || 🌌 Tech Explorer</h3>
 <h3 align="center">🎗️Coder🦋 || Tech-Savvy🍁 || Nerd ☄️ </h3>
 
@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats & Activity
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical" alt="GitHub Streak" height="200" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkovaturient&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="480" height="250" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkovaturient&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="480" height="250" />
 </p>
 
 <p align="center">
