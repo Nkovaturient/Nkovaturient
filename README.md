@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 **Currently on a relentless quest to master Full Stack Web Development** with a focus on **MERN** (MongoDB, Express, React, Node.js).
+- 🌱 **On a relentless quest to master Full Stack Web Development** with a focus on **MERN** (MongoDB, Express, React, Node.js).
 - 🔭 **GSOC-Extd 2024 || Contributor** where I aim to make impactful open-source contributions.
   <br />
 
