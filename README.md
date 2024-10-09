@@ -75,6 +75,10 @@ Feel free to reach out or follow me on my social media handles:
 
 ---
 
+[![An image of @nkovaturient's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkovaturient)](https://holopin.io/@nkovaturient)
+
+---
+
 ### 🎶 Stay Tuned
 <b>Happy Coding!</b> 
 <p align="center">
