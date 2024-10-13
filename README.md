@@ -11,9 +11,11 @@
 </p>
 
 ---
+- 🌱 **On a relentless quest to master Full Stack Web Development** with a focus on **MERN** (MongoDB, Express, React, Node.js)
+---
 
-### **🚀Status Quo 🚀**
-- 🌱 **On a relentless quest to master Full Stack Web Development** with a focus on **MERN** (MongoDB, Express, React, Node.js).
+### **🚀 Status Quo 🚀**
+
 - Working on Med-O-Media : smart and trusted healthcare related web app for optimised headlines , verified articles and credible health solutions all at one place.
 - Seeking Collaboration on building an innovative solutions relating specifically to this arenas:-
     -  `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
