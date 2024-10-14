@@ -11,7 +11,7 @@
 </p>
 
 ---
-- 🌱 **On a relentless quest to master Full Stack Web Development** with a focus on **MERN** (MongoDB, Express, React, Node.js)
+- 🌱 **On an unrivalled quest to master Full Stack Web Development** with a focus on **MERN** (MongoDB, Express, React, Node.js)
 ---
 
 ### **🚀 Status Quo 🚀**
