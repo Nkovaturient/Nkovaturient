@@ -9,9 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=nkovaturient&color=brightgreen" alt="Profile Visitor Counter" />
     <img src="https://img.shields.io/badge/Dynamic%20Profile-Vibrant-brightgreen" alt="Dynamic Profile" />
 </p>
-
----
-- 🌱 **On an unrivalled quest to master Full Stack Web Development** with a focus on **MERN** (MongoDB, Express, React, Node.js)
 ---
 
 ### **🚀 Status Quo 🚀**
