@@ -9,6 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=nkovaturient&color=brightgreen" alt="Profile Visitor Counter" />
     <img src="https://img.shields.io/badge/Dynamic%20Profile-Vibrant-brightgreen" alt="Dynamic Profile" />
 </p>
+
 ---
 
 ### **🚀 Status Quo 🚀**
@@ -25,11 +26,11 @@
   <br/>
 
 - 🔍 **Fast Learner**, always looking to explore cutting-edge technologies and frameworks.
-- ⚡ Fun Fact: Programming isn't just code for me—it's **puzzle-solving with poetic flair**! 🧩💡
+- ⚡ Fun Fact: Programming isn't just code for me—it's a **puzzle-solving with poetic flair**! 🧩💡
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Quotidian Tools ⚙📑
 <div align="left">
   <img src="https://img.shields.io/badge/Code-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code" alt="VSCode" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
