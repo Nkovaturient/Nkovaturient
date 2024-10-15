@@ -12,7 +12,7 @@
 
 ---
 
-### **🚀 Status Quo 🚀**
+### **🚀Status Quo🚀**
 
 - Working on Med-O-Media : smart and trusted healthcare related web app for optimised headlines , verified articles and credible health solutions all at one place.
 - Seeking Collaboration on building an innovative solutions relating specifically to this arenas:-
