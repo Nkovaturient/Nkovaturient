@@ -16,9 +16,11 @@
 
 - Working on Med-O-Media : smart and trusted healthcare related web app for optimised headlines , verified articles and credible health solutions all at one place.
 - Seeking Collaboration on building an innovative solutions relating specifically to this arenas:-
+  
     -  `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
     -  `NLP/RAG-integrated effective mechanisms`
     -  ` Providing requisite solutions to legal/law issues via a robust web app.`
+      
 - 🔭💫 **GSOC-Extd 2024 || Contributor** where I aim to make impactful open-source contributions. 🌟
   <br />
 
@@ -26,7 +28,7 @@
   <br/>
 
 - 🔍 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
-- ⚡ Fun Fact: Programming isn't just code for me—it's a **puzzle-solving with poetic flair**! 🧩💡
+- ⚡ Fun Fact: People term it as the **Poetry of Programming**-- its still an avid **Puzzle** for me! 🧩💡
 
 ---
 
