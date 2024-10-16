@@ -32,7 +32,21 @@
 
 ---
 
-### 🛠️ Tech Stack & Quotidian Tools ⚙📑
+# QOTD 📑✨
+
+> "Programming is just like a stroll in the park. **Jurassic Park**, that is."
+> -- *Larry Wall, Creator of Perl Programming Language*
+
+---
+
+- Pretty much true, you are either struggling to survive or excruciatingly bored. 🌐
+- btw, *Whats your fav dino?!, xD* 
+
+📌🔗 [My Portfolio](https://nehakumari711.netlify.app/) ❄⚡
+
+---
+
+### 🛠️ Tech Stack & Quotidian Tools ⚙🗡↘
 <div align="left">
   <img src="https://img.shields.io/badge/Code-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code" alt="VSCode" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
