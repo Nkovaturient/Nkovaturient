@@ -14,7 +14,7 @@
 
 ### **🚀Status Quo🚀**
 
-- 🟢 Working on dApp
+- 🟢 Working on dApp- *LOOTERE will bridge stock trading, crypto services, and real-time financial data, encouraging broader financial participation while securing both profits and insights for end-users and managers.*
 - ✅Seeking Collaboration on building an innovative solutions relating specifically to this arenas:-
   
     -  `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
