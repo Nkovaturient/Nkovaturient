@@ -12,9 +12,9 @@
 
 ---
 
-### **🚀Status Quo🚀**
+### ** 🚀Status Quo🚀 **
 
-- ✅Seeking Collaboration on building an innovative solutions relating specifically to this arenas:-
+- ✅Diving into building an innovative solutions relating specifically to this arenas:-
   
     -  `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
     -  `NLP/RAG-integrated effective mechanisms`
