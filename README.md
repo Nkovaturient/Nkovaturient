@@ -20,7 +20,7 @@
     -  `NLP/RAG-integrated effective mechanisms`
     -  ` Providing requisite solutions to legal/law issues via a robust web app.`
       
-- 🔭💫 **GSOC-Extd 2024 || Contributor** where I aim to make impactful open-source contributions. 🌟
+- 🔭💫 **GSOC-Extd 2024 || Contributor** -- Believes in **Quality** contributions over **Quantity**. 🌟
   <br />
 
   <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260'  />
