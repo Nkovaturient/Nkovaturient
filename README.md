@@ -12,7 +12,7 @@
 
 ---
 
-### ** 🚀Status Quo🚀 **
+### **🚀Status Quo🚀**
 
 - ✅Diving into building an innovative solutions relating specifically to this arenas:-
   
