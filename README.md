@@ -31,7 +31,7 @@
 
 ---
 
-# QOTD 📑✨
+# QOTD 📑
 
 > "Programming is just like a stroll in the park. **Jurassic Park**, that is."
 > -- *Larry Wall, Creator of Perl Programming Language*
@@ -39,7 +39,6 @@
 ---
 
 - Pretty much true, you are either struggling to survive or excruciatingly bored. 🌐
-- btw, *Whats your fav dino?!, xD* 
 
 📌🔗 [My Portfolio](https://nehakumari711.netlify.app/) ❄⚡
 
