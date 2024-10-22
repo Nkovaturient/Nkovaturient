@@ -6,7 +6,6 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/nkovaturient?label=Followers&style=social" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/nkovaturient?label=Stars" alt="GitHub Stars" />
-    <img src="https://komarev.com/ghpvc/?username=nkovaturient&color=brightgreen" alt="Profile Visitor Counter" />
     <img src="https://img.shields.io/badge/Dynamic%20Profile-Vibrant-brightgreen" alt="Dynamic Profile" />
 </p>
 
