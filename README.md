@@ -26,7 +26,7 @@
   <br/>
 
 - 🔍 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
-- ⚡ Fun Fact: People term it as the **Poetry of Programming**-- its still an avid **Puzzle** for me! 🧩💡
+- ⚡ Fun Fact: People term it as the **Poetry of Programming** --- its still an avid **Puzzle** for me! 🧩💡
 
 ---
 
