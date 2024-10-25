@@ -37,7 +37,7 @@
 
 ---
 
-- Pretty much true, you are either struggling to survive or excruciatingly bored. 🌐
+- Pretty much true, you are either struggling to survive or excruciatingly terrified! 🌐
 
 📌🔗 [My Portfolio](https://nehakumari711.netlify.app/) ❄⚡
 
