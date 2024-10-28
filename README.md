@@ -25,7 +25,7 @@
   <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260'  />
   <br/>
 
-- 🔍 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
+- 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
 - ⚡ Fun Fact: People term it as the **Poetry of Programming** --- its still an avid **Puzzle** for me! 🧩💡
 
 ---
