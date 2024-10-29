@@ -10,6 +10,17 @@
 </p>
 
 ---
+### 🛠️ Tech Stack & Quotidian Tools ⚙🗡↘
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=61DAFB&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=47A248&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vercel&fill=000000&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=netlify&fill=00c7b7&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=express&fill=898989&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node&fill=339933&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vscode&fill=0078d7&animation=spin)
+
+---
 
 ### **🚀Status Quo🚀**
 
@@ -43,19 +54,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Quotidian Tools ⚙🗡↘
-<div align="left">
-  <img src="https://img.shields.io/badge/Code-Visual_Studio_Code-blue?style=flat-square&logo=visual-studio-code" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Framework-Node.js-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-black?style=flat-square&logo=express" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Tools-Git-orange?style=flat-square&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/Hosting-Netlify-fdcbae?style=flat-square&logo=netlify" alt="Netlify" />
-</div>
-
----
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
