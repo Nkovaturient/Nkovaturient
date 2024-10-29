@@ -10,7 +10,7 @@
 </p>
 
 ---
-### 🛠️ Tech Stack & Quotidian Tools ⚙🗡↘
+### 🛠️ Tech Stack & Quotidian Tools ⚙
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=61DAFB&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=47A248&animation=spin)
