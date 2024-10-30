@@ -10,34 +10,39 @@
 </p>
 
 ---
-### 🛠️ Tech Stack & Quotidian Tools ⚙
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F&animation=spin)
+ <details>	
+ <summary><b>🛠️ Tech Stack & Quotidian Tools ⚙</b></summary><br>
+     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+         
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=61DAFB&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=47A248&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=47A248)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vercel&fill=000000&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=netlify&fill=00c7b7&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=express&fill=898989&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node&fill=339933&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vscode&fill=0078d7&animation=spin)
-
----
-
-### **🚀Status Quo🚀**
-
-- ✅ Diving into building an innovative solutions relating specifically to this arenas:-
-  
-    -  `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
-    -  `NLP/RAG-integrated effective mechanisms`
-    -  ` Providing requisite solutions to legal/law issues via a robust web app.`
-      
-- 🔭💫 **GSOC-Extd 2024 || Contributor** --- Defiantly believes in **Quality** contributions over **Quantity**!! 🌟🍀
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=0969da&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=f1502f)
+     </div>
+</details>
+ 
+## 🔭💫 **[GSSOC Extd '24 || Contributor](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 
+-  Defiantly believes in **Quality** contributions over **Quantity**!! 🌟🍀
   <br />
-
-  <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260'  />
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260px'  />
+</div>
   <br/>
-
-- 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
-- ⚡ Fun Fact: People term it as the **Poetry of Programming** --- its still an avid **Puzzle** for me! 🧩💡
+  
+  ## GSSOC Extd'(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  </a>
+</div>
 
 ---
 
@@ -49,11 +54,20 @@
 ---
 
 - Pretty much true, you are either struggling to survive or excruciatingly terrified! 🌐
+- 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
+- ⚡ Fun Fact: People term it as the **Poetry of Programming** --- its still an avid **Puzzle** for me! 🧩💡
 
 📌🔗 [My Portfolio](https://nehakumari711.netlify.app/) ❄⚡
 
 ---
 
+### **🚀Status Quo🚀**
+- ✅ Diving into building an innovative solutions relating specifically to this arenas:-
+  
+    -  `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
+    -  `NLP/RAG-integrated effective mechanisms`
+    -  ` Providing requisite solutions to legal/law issues via a robust web app.`
+     
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
