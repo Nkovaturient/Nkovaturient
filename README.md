@@ -49,6 +49,12 @@
 </div>
  </details>
 
+<details>
+    <summary><b>🎃🔰Holopin Badges || Hacktoberfest'24 🎃🔰</b></summary>
+    [![An image of @nkovaturient's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkovaturient)](https://holopin.io/@nkovaturient)
+
+</details>
+
 
 # QOTD 📑
 
@@ -104,10 +110,6 @@ Feel free to reach out or follow me on my social media handles:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
-
----
-
-[![An image of @nkovaturient's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkovaturient)](https://holopin.io/@nkovaturient)
 
 ---
 
