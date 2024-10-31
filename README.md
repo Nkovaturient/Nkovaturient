@@ -24,7 +24,7 @@
      </div>
 </details>
 
-## 💠🔰 **[GSSOC Extd '24 || Contributor](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
+## 💠🔰 **[GSSOC Extd '24 || Leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
 
 -   Defiantly believes in **Quality** contributions over **Quantity**!!
 <details>
@@ -48,20 +48,17 @@
   </a>
 </div>
  </details>
+</br>
 
-<details>
-    <summary><b>🎃🔰Holopin Badges || Hacktoberfest'24 🎃🔰</b></summary>
-    [![An image of @nkovaturient's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkovaturient)](https://holopin.io/@nkovaturient)
-
-</details>
+### 🎃🔰Holopin Badges || Hacktoberfest'24 🎃🔰
+   [![An image of @nkovaturient's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkovaturient)](https://holopin.io/@nkovaturient)
 
 
 # QOTD 📑
 
 > "Programming is just like a stroll in the park. **Jurassic Park**, that is."
 > -- *Larry Wall, Creator of Perl Programming Language*
-
----
+</br>
 
 - Pretty much true, you are either struggling to survive or excruciatingly terrified! 🌐
 - 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
