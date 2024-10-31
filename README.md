@@ -48,7 +48,6 @@
   </a>
 </div>
  </details>
-</br>
 
 ### 🎃🔰Holopin Badges || Hacktoberfest'24 🎃🔰
    [![An image of @nkovaturient's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkovaturient)](https://holopin.io/@nkovaturient)
