@@ -29,14 +29,13 @@
 -   Defiantly believes in **Quality** contributions over **Quantity**!!
 <details>
     <summary><b>GSSoC Extd'24 Contributor Card</b></summary><br>
- <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-
+ <div style='display:flex; align-items:center; gap: 10px;' align='center'
   <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260px'  />
 </div>
 </details>
 
  <details>	
- <summary><b>🔰GSSOC Extd'(24) Badges 🎃🔰</b></summary><br>
+ <summary><b>🔰GSSOC Extd'(24) Badges 🔰</b></summary><br>
      <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
