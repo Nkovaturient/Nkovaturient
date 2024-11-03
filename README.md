@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/github/stars/nkovaturient?label=Stars" alt="GitHub Stars" />
     <img src="https://img.shields.io/badge/Dynamic%20Profile-Vibrant-brightgreen" alt="Dynamic Profile" />
 </p>
-
 ---
  <details>	
  <summary><b>💠Tech Stack & Quotidian Tools💠</b></summary><br>
