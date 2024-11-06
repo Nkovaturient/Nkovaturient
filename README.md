@@ -28,12 +28,12 @@
 
 -   Defiantly believes in **Quality** contributions over **Quantity**!!
 
-<details>
+<!-- <details>
     <summary><b>GSSoC Extd'24 Contributor Card</b></summary><br>
  <div style='display:flex; align-items:center; gap: 10px;' align='center'
   <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260px'  />
 </div>
-</details>
+</details> -->
 
  <details>	
  <summary><b>🔰GSSoC Extd'(24) Badges🔰</b></summary><br>
