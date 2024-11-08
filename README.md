@@ -77,7 +77,7 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical" alt="GitHub Streak" height="200" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical" alt="GitHub Streaks" height="200" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkovaturient&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="480" height="250" />
 </p>
 
@@ -108,7 +108,6 @@ Feel free to reach out or follow me on my social media handles:
 </p>
 
 ---
-
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" height="300" width="400" />
