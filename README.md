@@ -26,7 +26,7 @@
 
 ## 💠🔰 **[GSSOC Extd '24 || Leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
 
--   Defiantly believes in **Quality** contributions over **Quantity**!!
+-   Defiantly believes in **Quality** contributions over **Quantity**!!!
 
 <!-- <details>
     <summary><b>GSSoC Extd'24 Contributor Card</b></summary><br>
