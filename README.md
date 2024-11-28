@@ -53,7 +53,7 @@
    [![An image of @nkovaturient's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkovaturient)](https://holopin.io/@nkovaturient)
 
 
-# QOTM 📑
+# QOTD 📑
 
 > "Programming is just like a stroll in the park. **Jurassic Park**, that is."
 > --- *Larry Wall, Creator of Perl Programming Language*
