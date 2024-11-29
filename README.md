@@ -36,7 +36,7 @@
 </details> -->
 
  <details>	
- <summary><b>🔰GSSoC Extd'(24) Badges🔰</b></summary><br>
+ <summary><b>🔰 GSSoC Extd'(24) Badges 🔰</b></summary><br>
      <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -98,6 +98,7 @@ Feel free to reach out or follow me on my social media handles:
   <a href="https://twitter.com/ha73329109" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
+    
   <a href="https://linkedin.com/in/neha-kumari" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
