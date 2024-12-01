@@ -12,7 +12,7 @@
 
  <details>	
  <summary><b>💠 Tech Stack || Quotidian Tools 💠</b></summary><br>
-     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+ <div style='display:flex; align-items:center; gap: 10px;' align='center'>
          
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=61DAFB&animation=spin)
@@ -59,7 +59,7 @@
 > --- *Larry Wall, Creator of Perl Programming Language*
 </br>
 
-- Pretty much true, you are either struggling to survive or excruciatingly terrified! 🌐
+- Pretty much true, you are either struggling to survive or excruciatingly terrified! ⚡
 - 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
 - ⚡ Fun Fact: People term it as the **Poetry of Programming** --- its still an avid **Puzzle** for me! 🧩💡
 
