@@ -24,7 +24,7 @@
      </div>
 </details>
 
-## 💠🔰 **[GSSOC Extd '24 || Leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
+## 💠🔰 **[GSSoC Extd '24 || Leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
 
 -   Defiantly believes in **Quality** contributions over **Quantity**!!!
 
