@@ -92,7 +92,7 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nkovaturient&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
 </p> -->
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me 🌐
 -  Feel free to reach out or follow me on my social media handles:
 <p align="left">
   <a href="https://twitter.com/ha73329109" target="_blank">
