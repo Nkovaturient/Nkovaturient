@@ -24,7 +24,7 @@
      </div>
 </details>
 
-## 💠🔰 **[GSSoC Extd '24 || Leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
+## 💠🔰 **[GSSoC Extd '24 || Leaderboard || Hacktoberfest'24](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
 
 -   Defiantly believes in **Quality** contributions over **Quantity**!!!
 
@@ -36,7 +36,7 @@
 </details> -->
 
  <details>	
- <summary><b>🔰 GSSoC Extd'(24) Badges 🔰</b></summary><br>
+ <summary><b>🔰 GSSoC Extd'(24) Badges 🔰</b></summary><br/>
      <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -49,10 +49,15 @@
 </div>
  </details>
 
-### 🔰Holopin Badges || Hacktoberfest'24 🔰
-   [![An image of @nkovaturient's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkovaturient)](https://holopin.io/@nkovaturient)
 
-
+ <details>	
+ <summary><b> 🔰Holopin Badges || Hacktoberfest'24 🔰</b></summary> <br/>
+     <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://holopin.io/@nkovaturient">
+         <img src="https://holopin.me/nkovaturient" />
+ </a>
+</div>
+  </details>
+ 
 # QOTD 📑
 
 > "Programming is just like a stroll in the park. **Jurassic Park**, that is."
