@@ -58,7 +58,7 @@
 </div>
   </details>
  
-# QOTD 📑
+# QOTD 📑🌇
 
 > "Programming is just like a stroll in the park. **Jurassic Park**, that is."
 > --- *Larry Wall: Creator of Perl Programming Language* ---
