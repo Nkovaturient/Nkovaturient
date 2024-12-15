@@ -97,8 +97,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nkovaturient&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
 </p> -->
 
-### 🌐 Connect With Me 🌐
--  Feel free to reach out or follow me on my social media handles:
+### 🌐 Connect With Me' 🌐
+-  Feel free to reach out 😄😊:
 <p align="left">
   <a href="https://twitter.com/ha73329109" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
