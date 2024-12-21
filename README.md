@@ -11,7 +11,7 @@
 
 
  <details>	
- <summary><b>💠 Tech Stack || Quotidian Tools 💠</b></summary><br/>
+ <summary><b>🪐 Tech Stack || Quotidian Tools 💠</b></summary><br/>
  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
          
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F)
