@@ -10,8 +10,7 @@
 </p>
 
 
- <details>	
- <summary><b>💠 Tech Stack || Quotidian Tools 💠</b></summary><br/>
+## 💠 Tech Stack || Quotidian Tools 💠
  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
          
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F)
@@ -22,7 +21,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=0969da&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=f1502f)
      </div>
-</details>
+
 
 ## 💠🔰 **[GSSoC Extd '24 || Leaderboard || Hacktoberfest'24](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
 
