@@ -19,7 +19,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vercel&fill=000000&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=netlify&fill=00c7b7&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=0969da&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=f1502f)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=f1502f&animation=spin)
      </div>
 
 
