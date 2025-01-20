@@ -10,7 +10,7 @@
 </p>
 
 
-## 💠 Tech Stack || Quotidian Tools💠
+## 💠 Tech Stack || Quotidian Tools 💠
  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
          
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F)
@@ -82,7 +82,7 @@
 ###  GitHub Stats & Activity
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical" 
-alt="GitHub Streaks" height="200"  />
+alt="GitHub  Streaks" height="200"  />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkovaturient&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="480" height="250" />
 </p>
 
