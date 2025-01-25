@@ -117,8 +117,8 @@ alt="GitHub  Streaks" height="200"  />
 ---
 
 <p align="center">
-<!--     <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" height="300" width="400" /> -->
-     <img src="https://github.com/user-attachments/assets/a603366a-938d-48c4-9e46-7164fc9abd5f" height="500" width="300" />
+    <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" height="300" width="400" />
+<!--      <img src="https://github.com/user-attachments/assets/a603366a-938d-48c4-9e46-7164fc9abd5f" height="500" width="300" /> -->
 
 </p>
 
