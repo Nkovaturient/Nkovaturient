@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/github/followers/nkovaturient?label=Followers&style=social" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/nkovaturient?label=Stars" alt="GitHub Stars" />
     <img src="https://img.shields.io/badge/Dynamic%20Profile-Vibrant-brightgreen" alt="Dynamic Profile" />
+    <sup>`Null Encryption Hardware Algorithm`</sup>
 </p>
 
 
