@@ -11,7 +11,7 @@
 </p>
 
 
-## 💠 Tech Stack || Quotidian Tools 💠
+## 💠 Tech Stack || Quotidian Tools 💠 
  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
          
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F)
@@ -28,7 +28,7 @@
 
 ## 💠🔰 **[GSSoC Extd '24 || Leaderboard || Hacktoberfest'24](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
 
--   Defiantly believes in **Quality** contributions over **Quantity**!!!
+-   Defiantly believes in **Quality** contributions over **Quantity**!!
 
 <!-- <details>
     <summary><b>GSSoC Extd'24 Contributor Card</b></summary><br>
