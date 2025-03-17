@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/user-attachments/assets/a603366a-938d-48c4-9e46-7164fc9abd5f" width="80" height="80" style="border-radius: 50" /> Neha Kumari <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80" height="80" style="border-radius: 50" /></h1>
+<h1 align="center"> Neha Kumari <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80" height="80" style="border-radius: 50" /></h1>
 
 <h2 align="center"> Open Source + MERN Stack Developer </h2>
 <h3 align="center"> Astrophile 🌙 ||  Coder👾 || Tech-Savvy🍁 || Explorer🍀 || Programmer 👩‍💻 || Nerd 🌠  </h3>
@@ -34,6 +34,7 @@
     <summary><b>GSSoC Extd'24 Contributor Card</b></summary><br>
  <div style='display:flex; align-items:center; gap: 10px;' align='center'
   <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260px'  />
+  <img src="https://github.com/user-attachments/assets/a603366a-938d-48c4-9e46-7164fc9abd5f" width="80" height="80" style="border-radius: 50" />
 </div>
 </details> -->
 
