@@ -74,12 +74,13 @@
 <!-- 📌🔗 [My Portfolio](https://nehakumari711.netlify.app/) ❄⚡ -->
 
 ---
-<!-- ### **🚀Status Quo🚀**
+### **🚀Status Quo🚀**
 - ✅ Diving into building an innovative solutions revolving around this arenas:-
   
-    -  `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
+    - `Protocol Labs Contribution`
+    -   `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
     -  `NLP/RAG-integrated effective mechanisms/solutions`
-    -  ` Providing requisite solutions to legal/law issues via a robust web app.` -->
+    -  ` Providing requisite solutions to legal/law issues via a robust web app.` 
      
 
 ###  GitHub Stats & Activity
