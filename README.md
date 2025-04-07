@@ -29,7 +29,6 @@
 ## 💠🔰 **[GSSoC Extd '24 || Leaderboard || Hacktoberfest'24](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
 
 -   Defiantly believes in **Quality** contributions over **Quantity**!!
-
 <!-- <details>
     <summary><b>GSSoC Extd'24 Contributor Card</b></summary><br>
  <div style='display:flex; align-items:center; gap: 10px;' align='center'
