@@ -23,7 +23,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=000000&fill=B52E31)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=0969da&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=f1502f&animation=spin)
-     </div>
+</div>
 
 
 ## 💠🔰 **[GSSoC Extd '24 || Leaderboard || Hacktoberfest'24](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
