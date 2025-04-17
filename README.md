@@ -100,24 +100,6 @@ alt="GitHub Streaks" height="200"  />
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nkovaturient&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
 </p> -->
 
-###  Connect With Me' 🌐
--  Feel free to reach out 😄😊:
-<p align="left">
-  <a href="https://twitter.com/ha73329109" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-    
-  <a href="https://linkedin.com/in/neha-kumari" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  
-  <a href="https://instagram.com/nehakumari2593" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-</p>
-
----
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" height="300" width="400" />
 <!--      <img src="https://github.com/user-attachments/assets/a603366a-938d-48c4-9e46-7164fc9abd5f" height="500" width="300" /> -->
