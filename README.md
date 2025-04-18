@@ -76,7 +76,7 @@
 ### **🚀Status Quo🚀**
 - ✅ Diving into building an innovative solutions revolving around this arenas:-
   
-    - `Protocol Labs Contribution`
+    - `Protocol Lab Cohort 3 Loading....`
     -   `DAPP web creatively instrumental in tackling few inconsistency of 21st century. `
     -  `NLP/RAG-integrated effective mechanisms/solutions`
     -  ` Providing requisite solutions to legal/law issues via a robust web app.` 
