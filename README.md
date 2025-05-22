@@ -53,7 +53,7 @@
 
 
  <details>	
- <summary><b>🔰Holopin Badges || Hacktoberfest'24 🔰</b></summary> <br/>
+ <summary><b> 🔰Holopin Badges || Hacktoberfest'24 🔰</b></summary> <br/>
      <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://holopin.io/@nkovaturient">
          <img src="https://holopin.me/nkovaturient" />
  </a>
