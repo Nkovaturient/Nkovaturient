@@ -15,7 +15,7 @@
  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
          
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&textfill=FFD43B&fill=3572A5)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&textfill=FFD43B&fill=3572A5&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=000000&fill=007ACC)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=61DAFB&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=47A248)
