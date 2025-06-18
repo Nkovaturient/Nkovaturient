@@ -1,6 +1,6 @@
 <h1 align="center"> Neha Kumari <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80" height="80" style="border-radius: 50" /></h1>
 
-<h2 align="center"> 🧇 Open Source + MERN Stack Developer + PLDG Cohort 2 + Cohort 3 🔰   </h2>
+<h2 align="center"> 🧇 Open Source + MERN Stack Developer + PLDG Cohort 2 + Cohort 3 🔰  </h2>
 <h3 align="center"> Astrophile 🌙 || Tech-Savvy🍁 || Explorer🍀 || Nerd 🌠   </h3>
 
 <p  align="center">
