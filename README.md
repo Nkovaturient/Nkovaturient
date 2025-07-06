@@ -1,7 +1,7 @@
 <h1 align="center"> Neha Kumari <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80" height="80" style="border-radius: 50" /></h1>
 
 <h2 align="center"> 🧇 Open Source + MERN Stack Developer + PLDG Cohort 2 + Cohort 3 🔰  </h2>
-<h3 align="center"> Astrophile 🌙 || Tech-Savvy🍁 || Explorer🍀 || Nerd 🌠  </h3>
+<h3 align="center"> Astrophile 🌙 || Tech-Savvy🍁 || Explorer🍀 || Nerd 🌠 </h3>
 
 <p  align="center">
     <img src="https://img.shields.io/github/followers/nkovaturient?label=Followers&style=social" alt="GitHub Followers" />
@@ -77,9 +77,7 @@
 ### **🚀Status Quo🚀**
 - ✅ Diving into building an innovative solutions revolving around this arenas:-
   
-    -   `PL_Genesis || Raise Your Hack || Bolt ⚡⏳⏲ `
-    -  `NLP/RAG-integrated effective mechanisms/solutions`
-    -  ` Providing requisite solutions to legal/law issues via a robust web app.` 
+    -   `PL_Genesis ✅ || Raise Your Hack 🟡  ⚡⏳⏲ `
      
 
 ###  GitHub Stats & Activity
