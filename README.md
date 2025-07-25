@@ -77,7 +77,9 @@
 ### **🚀Status Quo🚀**
 - ✅ Diving into building an innovative solutions revolving around this arenas:-
   
-    -   `PL_Genesis ✅ || Raise Your Hack 🟡  ⚡⏳⏲ `
+    -   `FormZen: AI Automated Form filling Agents ✅`
+    -    ` ShowIT 🟡 ⏲ `
+    -    ` Boustrophedon Seal Decipherment ⚡⏳ `
      
 
 ###  GitHub Stats & Activity
