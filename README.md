@@ -26,11 +26,11 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=f1502f&animation=spin)
 </div>
 
-
+<!--
 ## 💠🔰 **[GSSoC Extd '24 || Leaderboard || Hacktoberfest'24](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Nkovaturient)** 💠🔰
 
 -   Defiantly believes in **Quality** contributions over **Quantity**!!
-<!-- <details>
+ <details>
     <summary><b>GSSoC Extd'24 Contributor Card</b></summary><br>
  <div style='display:flex; align-items:center; gap: 10px;' align='center'
   <img src="https://github.com/user-attachments/assets/25ea1f97-2301-4d3d-ae54-83efac4cf388" height='260px'  />
@@ -54,11 +54,12 @@
 
 
  <details>	
- <summary><b> 🔰Holopin Badges || Hacktoberfest'24 🔰</b></summary> <br/>
-     <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://holopin.io/@nkovaturient">
+ <summary><b> 🔰Holopin Badges || Hacktoberfest'24 & 25 🔰</b></summary> <br/>
+     <!-- <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://holopin.io/@nkovaturient">
          <img src="https://holopin.me/nkovaturient" />
  </a>
-</div>
+</div> -->
+     <img width="1230" height="777" alt="Screenshot 2025-10-30 at 9 10 33 PM" src="https://github.com/user-attachments/assets/e1334c02-21cc-437e-8fc4-58ae8667d0f0" />
   </details>
  
 ## QOTD 📑🌇
