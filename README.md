@@ -75,9 +75,8 @@
 ### **🚀Status Quo🚀**
 - ✅ Diving into building an innovative solutions revolving around this arenas:-
   
-    -   `FormZen: AI Automated Form filling Agents ✅`
-    -    ` ShowIT 🟡 ⏲ `
     -    ` Boustrophedon Seal Decipherment ⚡⏳ `
+    -    `Entanglement: Local Music Bud`
 
 ---
 
