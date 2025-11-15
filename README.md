@@ -76,7 +76,6 @@
 - ✅ Diving into building an innovative solutions revolving around this arenas:-
   
     -    ` Boustrophedon Seal Decipherment ⚡⏳ `
-    -    `Entanglement: Local Music Bud`
 
 ---
 
