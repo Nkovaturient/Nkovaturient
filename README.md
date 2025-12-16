@@ -55,14 +55,16 @@
 
  <details>	
  <summary><b> 🔰Holopin Badges || Hacktoberfest'24 & 25 🔰</b></summary> <br/>
-     <!-- <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://holopin.io/@nkovaturient">
+     <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://holopin.me/nkovaturient">
          <img src="https://holopin.me/nkovaturient" />
  </a>
-</div> -->
+</div>
      <img width="1230" height="777" alt="Screenshot 2025-10-30 at 9 10 33 PM" src="https://github.com/user-attachments/assets/e1334c02-21cc-437e-8fc4-58ae8667d0f0" />
   </details>
  
 ## QOTD 📑🌇
+
+- [My Portfolio](https://nehakumari711.netlify.app/)
 
 > "Learn the rules like a Pro so you can break 'em like an Artist."
 
