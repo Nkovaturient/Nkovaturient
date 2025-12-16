@@ -66,10 +66,7 @@
 
 > "Learn the rules like a Pro so you can break 'em like an Artist."
 
- </br>
-
 - 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
-<!-- 📌🔗 [My Portfolio](https://nehakumari711.netlify.app/) ❄⚡ -->
 ---
 
 ### **🚀Status Quo🚀**
