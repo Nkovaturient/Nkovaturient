@@ -64,8 +64,6 @@
  
 ## QOTD 📑🌇
 
-- [My Portfolio](https://nehakumari711.netlify.app/)
-
 > "Learn the rules like a Pro so you can break 'em like an Artist."
 
 - 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
