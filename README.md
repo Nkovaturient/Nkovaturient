@@ -72,6 +72,7 @@
 ### **🚀Status Quo🚀**
 - ✅ Diving into building an innovative solutions revolving around this arenas:-
   
+    -    `FIFARCASTER : FIFA Prediction Market`
     -    ` Boustrophedon Seal Decipherment ⚡⏳ `
     -    `GhostLock: MEV Reaper : Sherlock Holmes of DeFi 🕵️🎻🔎 `
 
