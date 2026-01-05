@@ -1,6 +1,6 @@
 <h1 align="center"> Neha Kumari <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="80" height="80" style="border-radius: 50" /></h1>
 
-<h2 align="center"> 🔰 Open Source + MERN Stack + Blockchain Developer + PLDG Cohort(2)(3)(4)🔰   </h2>
+<h2 align="center"> 🔰 Open Source + MERN Stack + Blockchain Developer + PLDG Cohort(2)(3)(4) 🔰   </h2>
 <h3 align="center"> Astrophile 🌙 || Tech-Savvy 🍁 || Explorer 🍀 || Nerd 🌠</h3>
 
 <p  align="center">
@@ -85,7 +85,7 @@
 alt="GitHub Streaks" height="200"  />
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkovaturient&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkovaturient&show_icons=true&locale=en&theme=radical" alt="GitHub  Stats" />
     
 </p>
 
