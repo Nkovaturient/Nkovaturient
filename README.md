@@ -74,7 +74,7 @@
   
      <!--   -    `FIFARCASTER : FIFA Prediction Market` -->
     -    ` Boustrophedon Seal Decipherment ⚡⏳ `
-   <!--  -    `GhostLock: MEV Reaper : Sherlock Holmes of DeFi 🕵️🎻🔎 ` -->
+    -    `GhostLock: MEV Reaper : Sherlock Holmes of DeFi 🕵️🎻🔎 `
 
 ---
 
