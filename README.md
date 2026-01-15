@@ -10,6 +10,13 @@
     <sup>`Null Encryption Hardware Algorithm` </sup>
 </p>
 
+## Fear what you are not, or become what you fear!
+
+> "Learn the rules like a Pro so you can break 'em like an Artist."
+
+- 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
+  
+---
 
 ## 💠 Tech Stack || Quotidian Tools 💠 
  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -62,11 +69,6 @@
      <img width="1230" height="777" alt="Screenshot 2025-10-30 at 9 10 33 PM" src="https://github.com/user-attachments/assets/e1334c02-21cc-437e-8fc4-58ae8667d0f0" />
   </details>
  
-## QOTD 📑🌇
-
-> "Learn the rules like a Pro so you can break 'em like an Artist."
-
-- 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
 ---
 
 ### **🚀Status Quo🚀**
