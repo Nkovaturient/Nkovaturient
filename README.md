@@ -15,6 +15,10 @@
 > "Learn the rules like a Pro so you can break 'em like an Artist."
 
 - 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
+
+
+![Nkovaturient-space-shooter](https://github.com/user-attachments/assets/b3ad36d5-d0e2-410e-9e00-4b373832d88d)
+
   
 ---
 
@@ -92,17 +96,14 @@ alt="GitHub Streaks" height="200"  />
     
 </p>
 
----
-
 <!-- ### ⚡ GitHub Contributions Graph
 <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nkovaturient&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
 </p> -->
-
+<!--
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" height="300" width="400" />
-<!--      <img src="https://github.com/user-attachments/assets/a603366a-938d-48c4-9e46-7164fc9abd5f" height="500" width="300" /> -->
-
-</p>
+      <img src="https://github.com/user-attachments/assets/a603366a-938d-48c4-9e46-7164fc9abd5f" height="500" width="300" />
+</p> -->
 
 
