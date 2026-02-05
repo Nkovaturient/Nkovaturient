@@ -25,14 +25,14 @@
 ## 💠 Tech Stack || Quotidian Tools 💠 
  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
          
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=F0DB4F&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&textfill=FFD43B&fill=3572A5&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=000000&fill=007ACC)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=000000&fill=007ACC&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=61DAFB&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=47A248)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=47A248&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vercel&fill=000000&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=netlify&fill=00c7b7&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=000000&fill=B52E31)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=000000&fill=B52E31&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=0969da&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=f1502f&animation=spin)
 </div>
