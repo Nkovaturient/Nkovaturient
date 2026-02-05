@@ -17,7 +17,7 @@
 - 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
 
 
-![Nkovaturient-space-shooter](https://github.com/user-attachments/assets/b3ad36d5-d0e2-410e-9e00-4b373832d88d)
+![Nkovaturient](./game.gif)
 
   
 ---
