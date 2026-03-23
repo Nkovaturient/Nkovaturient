@@ -80,6 +80,7 @@
   
      <!--   -    `FIFARCASTER : FIFA Prediction Market` -->
     -    ` Boustrophedon Seal Decipherment ⚡⏳ `
+    -    ` Fueling Agentic Economies `
     -    `GhostLock: MEV Reaper : Sherlock Holmes of DeFi 🕵️🎻🔎 `
     -    [Machine Learning Internship](https://github.com/Nkovaturient/Machine-Learning-Mentorship/tree/Task-01/Task%20Submission%20Folder)
 
