@@ -10,7 +10,7 @@
     <sup>`Null Encryption Hardware Algorithm` </sup>
 </p>
 
-## Fear what you are not, or become what you fear!
+## Fear what you are not, or become what you fear!!
 
 > "Learn the rules like a Pro so you can break 'em like an Artist."
 
