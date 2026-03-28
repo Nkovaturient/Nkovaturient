@@ -76,7 +76,7 @@
 ---
 
 ### **🚀Status Quo🚀**
-- ✅ Diving into building an innovative solutions revolving around this arenas:-
+- ✅ Diving into building an innovative solutions revolving around:-
   
      <!--   -    `FIFARCASTER : FIFA Prediction Market` -->
     -    ` Boustrophedon Seal Decipherment ⚡⏳ `
