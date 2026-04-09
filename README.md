@@ -78,7 +78,7 @@
 ### **🚀Status Quo🚀**
 - ✅ Diving into building an innovative solutions revolving around:-
   
-     <!--   -    `FIFARCASTER : FIFA Prediction Market` -->
+     <!--   -    `Goalpha : FIFA Prediction Market` -->
     -    ` Boustrophedon Seal Decipherment ⚡⏳ `
     -    ` Fueling Agentic Economies `
     -    [Machine Learning Internship](https://github.com/Nkovaturient/Machine-Learning-Mentorship/tree/Task-01/Task%20Submission%20Folder)
