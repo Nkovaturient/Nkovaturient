@@ -14,6 +14,7 @@
 
 > "Learn the rules like a Pro so you can break 'em like an Artist."
 
+- [PLDG Portfolio](https://nehakumari711.netlify.app/pldgfolio)
 - 🌠 **Fast-paced Learner**, in synergy with exploring cutting-edge technologies and tools.
 
 
