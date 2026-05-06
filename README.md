@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:6e00ff&height=200&section=header&text=Neha%20Kumari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Explorer%20%7C%20Solution%20Architect%20%7C%20Builder%20%7C%20Astrophile&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:40E0D0,100:FFFF00&height=200&section=header&text=Neha%20Kumari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Explorer%20%7C%20Builder%20%7C%20Solution%20Architect%20%7C%20Astrophile&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Nkovaturient">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Encrypt+%7C%7C+Debug+%7C%7C+Code+%7C%7C+Augment;Open+Source+%E2%9C%A6+Blockchain+%E2%9C%A6+AI%2FML;PLDG+Cohort+%5B2+to+6%5D+%7C+Contributor+Co-Maintainer;Astrophile+%F0%9F%8C%99+%7C+Nerd+%F0%9F%8C%A0+%7C+Explorer+%F0%9F%8D%80;%22Learn+like+a+Pro.+Break+it+like+an+Artist.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=700&lines=Encrypt+%7C%7C+Debug+%7C%7C+Code+%7C%7C+Augment;Open+Source+%E2%9C%A6+Blockchain+%E2%9C%A6+AI%2FML;PLDG+Cohort+%5B2+to+6%5D+%7C+Contributor+Co-Maintainer;Astrophile+%F0%9F%8C%99+%7C+Nerd+%F0%9F%8C%A0+%7C+Explorer+%F0%9F%8D%80;%22Learn+like+a+Pro.+Break+it+like+an+Artist.%22" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,6 @@
 
 </div>
 
----
 
 ## ⚡ `> whoami`
 
@@ -39,7 +38,7 @@ const Neha: Developer = {
 };
 ```
 
-<img align="right" src="./game.gif" width="440px" style="border-radius: 12px;" />
+<img align="right" src="./game.gif" width="540px" style="border-radius: 12px;" />
 
 
 - 🔭 **Astrophile** mapping the cosmos between stars and code
@@ -50,13 +49,10 @@ const Neha: Developer = {
 
 <br clear="right"/>
 
----
 
 ## 🌌 Open Source Constellation
 
-<div align="center">
-
-<!-- Storacha -->
+<!-- <div align="center">
 <a href="https://github.com/storacha/console-toolkit">
   <img src="https://img.shields.io/badge/🔧_Maintainer-Storacha_Console_Toolkit-orange?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -67,7 +63,7 @@ const Neha: Developer = {
 
 </div>
 
-<br/>
+<br/> -->
 
 | 🏛️ Organization | 🔩 Contribution | 🏷️ Role |
 |---|---|---|
@@ -79,7 +75,6 @@ const Neha: Developer = {
 
 > 🛸 *Building the decentralized web, one protocol at a time.*
 
----
 
 ## 🚀 Status Quo — Active Missions
 
@@ -100,7 +95,6 @@ const Neha: Developer = {
 [![Agentic](https://img.shields.io/badge/🤖_WIP-Agentic_Economies-6e00ff?style=flat-square)](https://github.com/Nkovaturient/Rachax402)
 [![ML](https://img.shields.io/badge/🧠_Active-ML_Internship-00d4aa?style=flat-square)](https://github.com/Nkovaturient/Machine-Learning-Mentorship/tree/Task-01/Task%20Submission%20Folder)
 
----
 
 ## 💠 Tech Stack
 
@@ -134,7 +128,6 @@ const Neha: Developer = {
 
 </div>
 
----
 
 ## 🏆 GitHub Achievements
 
@@ -144,27 +137,26 @@ const Neha: Developer = {
 
 </div>
 
----
 
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical&hide_border=true&background=0D1117&ring=6e00ff&fire=ff6b35&currStreakLabel=A78BFA" height="180" alt="GitHub Streaks" />
-&nbsp;&nbsp;
+
+<!--&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=nkovaturient&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=6e00ff&icon_color=A78BFA" height="180" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkovaturient&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6e00ff&langs_count=8" height="140" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkovaturient&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6e00ff&langs_count=8" height="140" alt="Top Languages" /> -->
 
 </div>
 
----
 
 ## 🎖️ Badges & Recognition
 
-<details open>
+<details>
 <summary><b>🔰 GSSoC Extended '24 — Badges</b></summary>
 <br/>
 <div align="center">
@@ -182,7 +174,7 @@ const Neha: Developer = {
 
 <br/>
 
-<details open>
+<details>
 <summary><b>🎃 Holopin Badges — Hacktoberfest '24 & '25</b></summary>
 <br/>
 <div align="center">
