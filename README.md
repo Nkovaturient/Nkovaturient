@@ -129,16 +129,7 @@ const Neha: Developer = {
 </div>
 
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkovaturient&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
-## 📊 GitHub Stats & Streaks
+## GitHub Streaks
 
 <div align="center">
 
@@ -157,6 +148,17 @@ const Neha: Developer = {
 ## 🎖️ Badges & Recognition
 
 <details>
+<summary><b> 🏆 GitHub Achievements </b></summary>
+<br/>
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nkovaturient&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+</details>
+
+
+<details>
 <summary><b>🔰 GSSoC Extended '24 — Badges</b></summary>
 <br/>
 <div align="center">
@@ -172,7 +174,6 @@ const Neha: Developer = {
 </div>
 </details>
 
-<br/>
 
 <details>
 <summary><b>🎃 Holopin Badges — Hacktoberfest '24 & '25</b></summary>
