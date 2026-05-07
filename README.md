@@ -38,9 +38,9 @@ const Neha: Developer = {
 };
 ```
 
-<img align="right" src="./game.gif" width="540px" style="border-radius: 12px;" />
+<img src="./game.gif" style="border-radius: 12px;" />
 
-
+<!--
 - 🔭 **Astrophile** mapping the cosmos between stars and code
 - 🧠 **Fast-paced Learner** at the edge of Web3 + AI convergence  
 - 🛠️ **OSS Maintainer** — Storacha · libp2p · PLDG ecosystem  
@@ -48,6 +48,7 @@ const Neha: Developer = {
 - 🚀 Currently: Boustrophedon Seal Decipherment · Agentic Economies
 
 <br clear="right"/>
+-->
 
 
 ## 🌌 Open Source Constellation
@@ -97,7 +98,9 @@ const Neha: Developer = {
 
 
 ## 💠 Tech Stack
-
+<details>
+<summary><b> Tech Arsenals </b></summary>
+<br/>
 <div align="center">
 
 ### Languages
@@ -127,23 +130,7 @@ const Neha: Developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-0969da?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-
-## GitHub Streaks
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical&hide_border=true&background=0D1117&ring=6e00ff&fire=ff6b35&currStreakLabel=A78BFA" height="180" alt="GitHub Streaks" />
-
-<!--&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=nkovaturient&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=6e00ff&icon_color=A78BFA" height="180" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkovaturient&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6e00ff&langs_count=8" height="140" alt="Top Languages" /> -->
-
-</div>
-
+</details>
 
 ## 🎖️ Badges & Recognition
 
@@ -187,16 +174,24 @@ const Neha: Developer = {
 
 ---
 
+## GitHub Streaks
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical&hide_border=true&background=0D1117&ring=6e00ff&fire=ff6b35&currStreakLabel=A78BFA" height="180" alt="GitHub Streaks" />
+
+</div>
+
 <!-- Contribution Snake Animation -->
 <div align="center">
 
 ### 🌠 Contribution Galaxy
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nkovaturient/Nkovaturient/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nkovaturient/Nkovaturient/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Nkovaturient/Nkovaturient/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+</picture> -->
 
 <sub>🌌 <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."</i></sub>
 
