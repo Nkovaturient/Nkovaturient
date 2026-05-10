@@ -77,18 +77,23 @@ const Neha: Developer = {
 > 🛸 *Building the decentralized web, one protocol at a time.*
 
 
-## 🚀 Status Quo — Active Missions
+## 🚀 Status Quo
 
+<details>
+<summary><b> Active Missions </b></summary>
+<br/>
+<div align="center">
+  
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  ⚡ BOUSTROPHEDON SEAL DECIPHERMENT                             │
+│  ⚡ BOUSTROPHEDON SEAL DECIPHERMENT                              │
 │     Cracking ancient script with modern ML alchemy              │
 │                                                                 │
 │  🤖 FUELING AGENTIC ECONOMIES                                   │
-│     Rachax402 — Agent-to-Agent discovery + x402 payment mesh   │
+│     Rachax402 — Agent-to-Agent discovery + x402 payment mesh    │
 │                                                                 │
 │  🧪 ML MENTORSHIP INTERNSHIP                                    │
-│     Applied Machine Learning · Task-03 in progress             │
+│     Applied Machine Learning · Task-03 in progress              │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -96,6 +101,8 @@ const Neha: Developer = {
 [![Agentic](https://img.shields.io/badge/🤖_WIP-Agentic_Economies-6e00ff?style=flat-square)](https://github.com/Nkovaturient/Rachax402)
 [![ML](https://img.shields.io/badge/🧠_Active-ML_Internship-00d4aa?style=flat-square)](https://github.com/Nkovaturient/Machine-Learning-Mentorship/tree/Task-01/Task%20Submission%20Folder)
 
+</div>
+</details>
 
 ## 💠 Tech Stack
 <details>
@@ -184,14 +191,6 @@ const Neha: Developer = {
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-
-### 🌠 Contribution Galaxy
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nkovaturient/Nkovaturient/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nkovaturient/Nkovaturient/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Nkovaturient/Nkovaturient/output/github-contribution-grid-snake-dark.svg" />
-</picture> -->
 
 <sub>🌌 <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."</i></sub>
 
