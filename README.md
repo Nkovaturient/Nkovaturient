@@ -192,7 +192,7 @@ const Neha: Developer = {
 <!-- Contribution Snake Animation -->
 <div align="center">
 
-<sub>🌌 <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."</i></sub>
+<sub>🌌 <i>"The cosmos is within us. We all are made of star-stuff."</i></sub>
 
 </div>
 
