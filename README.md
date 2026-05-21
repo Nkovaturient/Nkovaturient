@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Social Badges -->
 [![Website](https://img.shields.io/badge/🌐_Website-nehakumari711.netlify.app-6e00ff?style=for-the-badge&logoColor=white)](https://nehakumari711.netlify.app/)
 [![PLDG](https://img.shields.io/badge/📡_PLDG_Portfolio-Cohort_2--6-blueviolet?style=for-the-badge)](https://nehakumari711.netlify.app/pldgfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neha--kumari711-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kumari711/)
