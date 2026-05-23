@@ -103,6 +103,7 @@ const Neha: Developer = {
 </div>
 </details>
 
+
 ## 💠 Tech Stack
 <details>
 <summary><b> Tech Arsenals </b></summary>
@@ -188,7 +189,6 @@ const Neha: Developer = {
 
 </div>
 
-<!-- Contribution Snake Animation -->
 <div align="center">
 
 <sub>🌌 <i>"The cosmos is within us. We all are made of star-stuff."</i></sub>
