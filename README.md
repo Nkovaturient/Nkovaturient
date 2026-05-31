@@ -25,7 +25,7 @@
 </div>
 
 
-## ⚡ `> whoami`
+## ⚡ `> Programming the Rhythm of Algorithms`
 
 ```ts
 const Neha: Developer = {
