@@ -8,8 +8,6 @@
 
 <br/>
 
-
-
 [![Website](https://img.shields.io/badge/🌐_Website-nehakumari711.netlify.app-6e00ff?style=for-the-badge&logoColor=white)](https://nehakumari711.netlify.app/)
 [![PLDG](https://img.shields.io/badge/📡_PLDG_Portfolio-Cohort_2--6-blueviolet?style=for-the-badge)](https://nehakumari711.netlify.app/pldgfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neha--kumari711-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kumari711/)
@@ -198,4 +196,4 @@ const Neha: Developer = {
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,50:1a1a3e,100:0d1117&height=120&section=footer&text=Fear+what+you+are+not,+or+become+what+you+fear.&fontSize=16&fontColor=A78BFA&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:40E0D0,100:FFFF00&height=120&section=footer&text=Fear+what+you+are+not,+or+become+what+you+fear.&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
