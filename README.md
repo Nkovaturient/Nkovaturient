@@ -96,9 +96,40 @@ const Neha: Developer = {
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-[![Boustrophedon](https://img.shields.io/badge/🔮_WIP-Seal_Decipherment-blueviolet?style=flat-square)](https://github.com/Nkovaturient)
-[![Agentic](https://img.shields.io/badge/🤖_WIP-Agentic_Economies-6e00ff?style=flat-square)](https://github.com/Nkovaturient/Rachax402)
+[![Boustrophedon](https://img.shields.io/badge/🔮_Brainstorming-Seal_Decipherment-blueviolet?style=flat-square)](https://github.com/Nkovaturient)
+[![Agentic](https://img.shields.io/badge/🤖_Overhauling-Agentic_Economies-6e00ff?style=flat-square)](https://github.com/Nkovaturient/Rachax402)
 [![ML](https://img.shields.io/badge/🧠_Active-ML_Internship-00d4aa?style=flat-square)](https://github.com/Nkovaturient/Machine-Learning-Mentorship/tree/Task-01/Task%20Submission%20Folder)
+
+</div>
+</details>
+
+<details>
+<summary><b> My Network stats: </b></summary>
+<br/>
+<div align="center">
+
+  ```
+┌─────────────────────────────────────────────────────────────────┐
+│  NETWORK STATE · Low bandwidth · All slots occupied             │
+│═════════════════════════════════════════════════════════════════│
+│                                                                 │
+│  🔒 [High DTLS/SCTP]  ──►  Learning AWS CERTIFIED DEVELOPER      │
+│     Secure track over real-world conditions · DVA-C02 in scope  │
+│     Multi-stream: Lambda · IAM · DynamoDB · API GW · CDK        │
+│                                                                 │
+│  🔑 [Noise-encrypted connection to]  ──►  CLAUDE PREP COHORT    │
+│     Authenticated channel · no pre-shared trust needed          │
+│     Building + learning · Anthropic agentic stack depth         │
+│                                                                 │
+│  ∫ [PRACTICALLY INTEGRATED] ──►  McKINSEY FORWARD Learning      │
+│     wired in · Adaptability & Resilience · Problem-Solving      │
+│     MECE · Communication · Well-being · Digital Toolkit         │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+[![AWS](https://img.shields.io/badge/🔒_DTLS/SCTP-AWS_Certified_Dev_(DVA--C02)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.linkedin.com/learning/aws-certified-developer-associate-dva-c02-cert-prep/aws-certified-developer-associate-dva-c02-exam-overview)
+[![Claude](https://img.shields.io/badge/🔑_NOISE-Claude_Prep_Cohort-cc785c?style=flat-square)](https://www.devcompass.ai/course/claude-certified-architect-prep/dashboard)
+[![McKinsey](https://img.shields.io/badge/∫_Integrated-McKinsey_Forward_Learning_Program-0a3d62?style=flat-square)](https://academy.mckinseyaccelerate.com/learn/signin)
 
 </div>
 </details>
