@@ -14,16 +14,19 @@
 [![Twitter](https://img.shields.io/badge/X-@matriX__Nk-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matriX_Nk)
 [![Hashnode](https://img.shields.io/badge/Blog-@matriXnk-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@matriXnk)
 
-<br/>
+<!-- <br/>
 
 [![GitHub Followers](https://img.shields.io/github/followers/nkovaturient?label=Followers&style=social)](https://github.com/Nkovaturient)
 [![GitHub Stars](https://img.shields.io/github/stars/nkovaturient?label=Stars&style=social)](https://github.com/Nkovaturient)
-[![Profile Views](https://komarev.com/ghpvc/?username=nkovaturient&color=6e00ff&style=flat-square&label=Profile+Views)](https://github.com/Nkovaturient)
+[![Profile Views](https://komarev.com/ghpvc/?username=nkovaturient&color=6e00ff&style=flat-square&label=Profile+Views)](https://github.com/Nkovaturient) -->
 
 </div>
 
+## ⚡ `< Programming the Rhythm of Algorithms >`
 
-## ⚡ `> Programming the Rhythm of Algorithms`
+<details>
+<summary><b> view </b></summary>
+<br/>
 
 ```ts
 const Neha: Developer = {
@@ -37,43 +40,7 @@ const Neha: Developer = {
 };
 ```
 
-<img src="./game.gif" style="border-radius: 12px;" />
-
-<!--
-- 🔭 **Astrophile** mapping the cosmos between stars and code
-- 🧠 **Fast-paced Learner** at the edge of Web3 + AI convergence  
-- 🛠️ **OSS Maintainer** — Storacha · libp2p · PLDG ecosystem  
-- 🔗 **Blockchain Architect** building trustless, composable protocols  
-- 🚀 Currently: Boustrophedon Seal Decipherment · Agentic Economies
-
-<br clear="right"/>
--->
-
-
-## 🌌 Open Source Constellation
-
-<!-- <div align="center">
-<a href="https://github.com/storacha/console-toolkit">
-  <img src="https://img.shields.io/badge/🔧_Maintainer-Storacha_Console_Toolkit-orange?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/orgs/storacha/discussions/175">
-  <img src="https://img.shields.io/badge/📦_PLDG_Cohort_4-Storacha_Upload--Service-ff6b35?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
-<br/> -->
-
-| 🏛️ Organization | 🔩 Contribution | 🏷️ Role |
-|---|---|---|
-| [**Storacha**](https://github.com/storacha) | [Console Integration Toolkit](https://github.com/orgs/storacha/console-toolkit) — plug-and-play UI layer embedding Storacha console features into any Web3 product | **Maintainer / PLDG Contributor** |
-| [**Libp2p**](https://github.com/libp2p) | [universal-connectivity-workshop](https://github.com/libp2p/universal-connectivity-workshop/pull/2) — Implementing Lessons which provide a comprehensive, hands-on path for developers to build robust, event-driven peer-to-peer applications using js-libp2p.  | **Project Lead / Contributor** |
-| [**Libp2p**](https://github.com/libp2p) | [Lattice](https://github.com/Nkovaturient/Lattice) — Libp2p x DeFi: Private Solver Mesh  | **Project Lead** / (WIP) |
-| [**Randamu**](https://github.com/randa-mu) | [blocklock-frontend-kit](https://github.com/Nkovaturient/blocklock-frontend-kit/tree/feat/timed-release-media) — Demonstrating Dcipher's Blocklock-encryption (blocklock-solidity and blocklock-js) functionality via a "digital time capsule" for photos, videos, or documents that remains private until a verifiable point(block) in time. Encrypted content → Lives on decentralized storage (IPFS, Arweave), Metadata and orchestration → Lives on blockchain (smart contract), Time-lock mechanism → Stays exactly the same (blocklock)   | **Builder** / [Preview](https://teal-secondary-antelope-34.mypinata.cloud/ipfs/bafybeigrzxg3ckifwj3vlifususgkvicb7y34ru3lv73syarlz7arzxjfi) / [Special Mention of my work](https://www.web3compass.xyz/dcipher-by-example/example-8) |
-| **PLDG Cohort 2→6** | Protocol Labs Developer Guild — 5 consecutive cohorts spanning decentralized storage, networking & agentic systems | [Portfolio](https://nehakumari711.netlify.app/pldgfolio) |
-
-> 🛸 *Building the decentralized web, one protocol at a time.*
+</details>
 
 
 ## 🚀 Status Quo
@@ -104,7 +71,7 @@ const Neha: Developer = {
 </details>
 
 <details>
-<summary><b> My Network stats: </b></summary>
+<summary><b> My Network stats </b></summary>
 <br/>
 <div align="center">
 
@@ -133,6 +100,34 @@ const Neha: Developer = {
 
 </div>
 </details>
+
+<img src="./game.gif" style="border-radius: 12px;" />
+
+
+## 🌌 Open Source Constellation
+
+<!-- <div align="center">
+<a href="https://github.com/storacha/console-toolkit">
+  <img src="https://img.shields.io/badge/🔧_Maintainer-Storacha_Console_Toolkit-orange?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/orgs/storacha/discussions/175">
+  <img src="https://img.shields.io/badge/📦_PLDG_Cohort_4-Storacha_Upload--Service-ff6b35?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+<br/> -->
+
+| 🏛️ Organization | 🔩 Contribution | 🏷️ Role |
+|---|---|---|
+| [**Storacha**](https://github.com/storacha) | [Console Integration Toolkit](https://github.com/orgs/storacha/console-toolkit) — plug-and-play UI layer embedding Storacha console features into any Web3 product | **Maintainer / PLDG Contributor** |
+| [**Libp2p**](https://github.com/libp2p) | [universal-connectivity-workshop](https://github.com/libp2p/universal-connectivity-workshop/pull/2) — Implementing Lessons which provide a comprehensive, hands-on path for developers to build robust, event-driven peer-to-peer applications using js-libp2p.  | **Project Lead / Contributor** |
+| [**Libp2p**](https://github.com/libp2p) | [Lattice](https://github.com/Nkovaturient/Lattice) — Libp2p x DeFi: Private Solver Mesh  | **Project Lead** / (WIP) |
+| [**Randamu**](https://github.com/randa-mu) | [blocklock-frontend-kit](https://github.com/Nkovaturient/blocklock-frontend-kit/tree/feat/timed-release-media) — Demonstrating Dcipher's Blocklock-encryption (blocklock-solidity and blocklock-js) functionality via a "digital time capsule" for photos, videos, or documents that remains private until a verifiable point(block) in time. Encrypted content → Lives on decentralized storage (IPFS, Arweave), Metadata and orchestration → Lives on blockchain (smart contract), Time-lock mechanism → Stays exactly the same (blocklock)   | **Builder** / [Preview](https://teal-secondary-antelope-34.mypinata.cloud/ipfs/bafybeigrzxg3ckifwj3vlifususgkvicb7y34ru3lv73syarlz7arzxjfi) / [Special Mention of my work](https://www.web3compass.xyz/dcipher-by-example/example-8) |
+| **PLDG Cohort 2→6** | Protocol Labs Developer Guild — 5 consecutive cohorts spanning decentralized storage, networking & agentic systems | [Portfolio](https://nehakumari711.netlify.app/pldgfolio) |
+
+> 🛸 *Building the decentralized web, one protocol at a time.*
 
 
 ## 💠 Tech Stack
@@ -172,7 +167,7 @@ const Neha: Developer = {
 
 ## 🎖️ Badges & Recognition
 
-<details>
+<!-- <details>
 <summary><b> 🏆 GitHub Achievements </b></summary>
 <br/>
 <div align="center">
@@ -180,7 +175,7 @@ const Neha: Developer = {
   [![trophy](https://github-profile-trophy.vercel.app/?username=nkovaturient&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
-</details>
+</details> -->
 
 
 <details>
