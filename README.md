@@ -212,7 +212,9 @@ const Neha: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical&hide_border=true&background=0D1117&ring=6e00ff&fire=ff6b35&currStreakLabel=A78BFA" height="180" alt="GitHub Streaks" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkovaturient&theme=radical&hide_border=true&background=0D1117&ring=6e00ff&fire=ff6b35&currStreakLabel=A78BFA" height="180" alt="GitHub  Streaks" /> -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nkovaturient&theme=blue-navy&background=0D1117&ring=6e00ff&fire=ff6b35&hide_border=true&currStreakLabel=A78BFA" height="180" alt="GitHub  Streaks" />
 
 </div>
 
