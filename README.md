@@ -18,7 +18,8 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/nkovaturient?label=Followers&style=social)](https://github.com/Nkovaturient)
 [![GitHub Stars](https://img.shields.io/github/stars/nkovaturient?label=Stars&style=social)](https://github.com/Nkovaturient)
-[![Profile Views](https://komarev.com/ghpvc/?username=nkovaturient&color=6e00ff&style=flat-square&label=Profile+Views)](https://github.com/Nkovaturient) -->
+[![Profile Views](https://komarev.com/ghpvc/?username=nkovaturient&color=6e00ff&style=flat-square&label=Profile+Views)](https://github.com/Nkovaturient)
+-->
 
 </div>
 
