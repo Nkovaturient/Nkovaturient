@@ -95,7 +95,8 @@ const Neha: Developer = {
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-[![AWS](https://img.shields.io/badge/🔒_DTLS/SCTP-AWS_Certified_Dev_(DVA--C02)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.linkedin.com/learning/aws-certified-developer-associate-dva-c02-cert-prep/aws-certified-developer-associate-dva-c02-exam-overview)
+<!--
+[![AWS](https://img.shields.io/badge/🔒_DTLS/SCTP-AWS_Certified_Dev_(DVA--C02)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.linkedin.com/learning/aws-certified-developer-associate-dva-c02-cert-prep/aws-certified-developer-associate-dva-c02-exam-overview) -->
 [![Claude](https://img.shields.io/badge/🔑_NOISE-Claude_Prep_Cohort-cc785c?style=flat-square)](https://www.devcompass.ai/course/claude-certified-architect-prep/dashboard)
 [![McKinsey](https://img.shields.io/badge/∫_Integrated-McKinsey_Forward_Learning_Program-0a3d62?style=flat-square)](https://academy.mckinseyaccelerate.com/learn/signin)
 
