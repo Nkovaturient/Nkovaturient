@@ -106,7 +106,6 @@ const Neha: Developer = {
 <img src="./game.gif" style="border-radius: 12px;" />
 
 
-
 ## 🌌 Open Source Constellation
 
 <!-- <div align="center">
