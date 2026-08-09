@@ -70,7 +70,6 @@ const Neha: Developer = {
 </div>
 </details>
 
-
 <details>
 <summary><b> My Network stats </b></summary>
 <br/>
