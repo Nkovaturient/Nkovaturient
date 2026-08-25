@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=700&lines=Encrypt+%7C%7C+Debug+%7C%7C+Code+%7C%7C+Augment;Open+Source+%E2%9C%A6+Blockchain+%E2%9C%A6+AI%2FML;PLDG+Cohort+%5B2+to+6%5D+%7C+Contributor+Co-Maintainer;Astrophile+%F0%9F%8C%99+%7C+Nerd+%F0%9F%8C%A0+%7C+Explorer+%F0%9F%8D%80;%22Learn+like+a+Pro.+Break+it+like+an+Artist.%22" alt="Typing SVG" />
 </a>
 
+
 <br/>
 
 
