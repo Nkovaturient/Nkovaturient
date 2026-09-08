@@ -38,7 +38,7 @@ const Neha: Developer = {
   role       : [Solution Architect, "Contributor", Agentic Builder, "Co-Maintainer", Collaborator],
   orgs       : ["Storacha", "Libp2p", "PLDG", "Smartly Labs"],
   obsessions : ["Decentralized Systems", "Agentic Economies",
-                "Celestial Mechanics", "Cryptographic Primitives"],
+                "Celestial Mechanics", "Cryptographic Primitives", "Composable Intelligence Layer"],
   motto      : "Fear what you are not, or become what you fear."
 };
 ```
