@@ -172,16 +172,6 @@ const Neha: Developer = {
 
 ## 🎖️ Badges & Recognition
 
-<!-- <details>
-<summary><b> 🏆 GitHub Achievements </b></summary>
-<br/>
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=nkovaturient&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-</details> -->
-
 
 <details>
 <summary><b>🔰 GSSoC Extended '24 — Badges</b></summary>
