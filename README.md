@@ -8,20 +8,13 @@
 
 <br/>
 
-
-
 [![Website](https://img.shields.io/badge/🌐_Website-nehakumari711.netlify.app-6e00ff?style=for-the-badge&logoColor=white)](https://nehakumari711.netlify.app/)
 [![PLDG](https://img.shields.io/badge/📡_PLDG_Portfolio-Cohort_2--6-blueviolet?style=for-the-badge)](https://nehakumari711.netlify.app/pldgfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neha--kumari711-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kumari711/)
 [![Twitter](https://img.shields.io/badge/X-@matriX__Nk-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matriX_Nk)
 [![Hashnode](https://img.shields.io/badge/Blog-@matriXnk-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@matriXnk)
 
-<!-- <br/>
-
-[![GitHub Followers](https://img.shields.io/github/followers/nkovaturient?label=Followers&style=social)](https://github.com/Nkovaturient)
-[![GitHub Stars](https://img.shields.io/github/stars/nkovaturient?label=Stars&style=social)](https://github.com/Nkovaturient)
-[![Profile Views](https://komarev.com/ghpvc/?username=nkovaturient&color=6e00ff&style=flat-square&label=Profile+Views)](https://github.com/Nkovaturient)
--->
+<!-- <br/> -->
 
 </div>
 
@@ -61,7 +54,7 @@ const Neha: Developer = {
 │  🤖 FUELING AGENTIC ECONOMIES                                   │
 │     Rachax402 — Agent-to-Agent discovery + x402 payment mesh    │
 │                                                                 │
-│  🧪 ML MENTORSHIP INTERNSHIP                                    │
+│  🧪 Lattice  │
 │     Applied Machine Learning · Task-03 in progress              │
 └─────────────────────────────────────────────────────────────────┘
 ```
