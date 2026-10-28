@@ -8,13 +8,13 @@
 
 <br/>
 
+
 [![Website](https://img.shields.io/badge/🌐_Website-nehakumari711.netlify.app-6e00ff?style=for-the-badge&logoColor=white)](https://nehakumari711.netlify.app/)
 [![PLDG](https://img.shields.io/badge/📡_PLDG_Portfolio-Cohort_2--6-blueviolet?style=for-the-badge)](https://nehakumari711.netlify.app/pldgfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neha--kumari711-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-kumari711/)
 [![Twitter](https://img.shields.io/badge/X-@matriX__Nk-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matriX_Nk)
 [![Hashnode](https://img.shields.io/badge/Blog-@matriXnk-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@matriXnk)
 
-<!-- <br/> -->
 
 </div>
 
