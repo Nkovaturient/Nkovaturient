@@ -47,13 +47,13 @@ const Neha: Developer = {
   
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  ⚡ BOUSTROPHEDON SEAL DECIPHERMENT                              │
-│     Cracking ancient script with modern ML alchemy              │
+│  ⚡ QMeshPy: NEAR AI Cloud Pvt Inference + Starknet Network      │
+│      NEAR TEE attestation and cairo smart contracts             │
 │                                                                 │
 │  🤖 FUELING AGENTIC ECONOMIES                                   │
 │     Rachax402 — Agent-to-Agent discovery + x402 payment mesh    │
 │                                                                 │
-│  🧪 Lattice  │
+│  🧪 Lattice 
 │     Applied Machine Learning · Task-03 in progress              │
 └─────────────────────────────────────────────────────────────────┘
 ```
